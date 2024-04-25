@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">gastoviagem</string>
+    <string name="dist">Distancia </string>
+    <string name="totaq">Total de quilometros</string>
+    <string name="price">Preço</string>
+    <string name="pricepl">Preço por litro</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="km">KMs por litros</string>
+    <string name="gastotl">Seu gasto sera de: </string>
+<string name="tl">R$ 0 </string>
+<string name="calc">Calcular</string>
+</resources>
